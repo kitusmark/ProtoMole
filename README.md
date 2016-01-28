@@ -16,6 +16,6 @@ For now it's only in 5x5cm version but I'm planning to make a couple more sizes.
 + Cheap, small and useful!
 
 ##Some images
-![Board from the front](https://github.com/kitusmark/ProtoMole/blob/master/img/front.jpg | width=480)
-![Board from the Rear](https://github.com/kitusmark/ProtoMole/blob/master/img/rear.jpg | width=480)
-![Board with a particle photon](https://github.com/kitusmark/ProtoMole/blob/master/img/reference.jpg | width=480)
+![Board from the front](https://github.com/kitusmark/ProtoMole/blob/master/img/front.jpg =480x)
+![Board from the Rear](https://github.com/kitusmark/ProtoMole/blob/master/img/rear.jpg =480x)
+![Board with a particle photon](https://github.com/kitusmark/ProtoMole/blob/master/img/reference.jpg =480x)
