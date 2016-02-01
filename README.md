@@ -5,6 +5,10 @@ Sometimes I find myself wanting to have a circuit in a more fixed position, so I
 
 For now it's only in 5x5cm version but I'm planning to make a couple more sizes.
 
+###Folders 
+
+Protomole5 has the 5x5 cm version with all the gerber files and eagle originals.
+
 ##How It's done
 
 + 0,1" standard pitch so you can fit almost everything. 
